@@ -215,12 +215,14 @@ a.socialss:hover{
    padding-left: 40px;
    padding-top: 20px;
 }
-h4{
+.aboutt h4{
    color: #7c4a2b;
-   font-size: 20px;
-   font-weight: medium;
-   text-align: left;
-   padding-right: 40px;
+   font-size: 50px;
+   font-weight: 600;
+   line-height: 1.0;
+   text-align: center;
+   text-decoration: solid;
+   padding-top: 40px;
 }
 
  
